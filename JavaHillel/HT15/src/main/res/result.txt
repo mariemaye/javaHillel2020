@@ -1,0 +1,6 @@
+
+Wins:2
+Losses:0
+Draw:0
+Number od games:2
+Percent of wins:1.0
