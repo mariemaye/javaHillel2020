@@ -1,0 +1,13 @@
+{
+  "name" : "Mary Ovcharenko",
+  "Title" : "Java",
+  "Position" : "Junior JAVA",
+  "employed" : true,
+  "Skills" : [ "Java Core", "Git", "Maven", "SQL" ],
+  "languages" : {
+    "English" : "medium"
+
+  },
+  "education" : "ODEKU OPLBa Hillel",
+  "WorkIsOver" : "time 16:13 am..."
+}
